@@ -1,0 +1,22 @@
+
+body{
+    background-color: black;
+    z-index: 2;
+}
+
+}
+
+/* table{
+    width: 100%;
+    border-collapse:collapse;
+}
+
+thead th{
+    background-color: green ;
+    text-align:center;
+    padding:10px;
+}
+
+tbody tr{
+    transition: background-color;
+}  */
